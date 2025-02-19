@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "locale": "English_United States.1252",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.13.1",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "7b5f6c6709563154bb5a9d4cfbf9ac94"
+    },
+    "MaptionnaireR3_results_2025-01-03.xlsx": {
+      "checksum": "7771aae8cfba33411ce3f0a0be76cf0a"
+    },
+    "MaptionnaireR3_results_2025-02-10.xlsx": {
+      "checksum": "0d75de3ea1c42d842fb1f6453c0a6d8d"
+    },
+    "R3_comments.csv": {
+      "checksum": "ba65a5936f6383f6448516a8e88d745d"
+    },
+    "R3results_processing.ipynb": {
+      "checksum": "87c9a0227c0b7d4e520cc5aa0a52a825"
+    },
+    "app.py": {
+      "checksum": "ecf4241678bf6363039d6aff9a4add40"
+    },
+    "shps/SA_bndry/All Study Area Boundaries.cpg": {
+      "checksum": "ae3b3df9970b49b6523e608759bc957d"
+    },
+    "shps/SA_bndry/All Study Area Boundaries.dbf": {
+      "checksum": "3c5be15973cc1fc642abbb15808b3d9d"
+    },
+    "shps/SA_bndry/All Study Area Boundaries.prj": {
+      "checksum": "9fef42dc42dede01c3ca00704497f947"
+    },
+    "shps/SA_bndry/All Study Area Boundaries.qmd": {
+      "checksum": "941cd9c7f23056d2baa6da8598c2708d"
+    },
+    "shps/SA_bndry/All Study Area Boundaries.shp": {
+      "checksum": "b0dbe2a434e3473e39ce931f280387b1"
+    },
+    "shps/SA_bndry/All Study Area Boundaries.shx": {
+      "checksum": "1b2d06cfba63e948f2522c84188c6cdc"
+    },
+    "static/img/Utile Logo - Black.png": {
+      "checksum": "d589760fef8caca1fdcc63465f26d189"
+    },
+    "static/img/Utile Logo - Brown.png": {
+      "checksum": "3bd23b8a45b22be50cadb80108ffc7e9"
+    },
+    "static/img/Utile Logo - White.png": {
+      "checksum": "620c210b690407b5236d5ca8c0e52a92"
+    },
+    "static/img/Utile U - Black.png": {
+      "checksum": "07e8ffbd498c05a6f05fbd77c7c31bff"
+    },
+    "static/img/Utile U - Brown.png": {
+      "checksum": "400d5557ae18eba39ca720e9f0520ed6"
+    },
+    "static/img/Utile U - White.png": {
+      "checksum": "627de0a9c8bd7b877e58375b0407b913"
+    },
+    "static/map.html": {
+      "checksum": "ddc1662c92b985ca73da32e916a5f34a"
+    },
+    "static/styles.css": {
+      "checksum": "f55d285668eee3cd3688b7f9a6eec5cc"
+    }
+  }
+}
